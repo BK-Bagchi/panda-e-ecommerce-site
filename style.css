@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    margin-bottom: 100px;
+}
+
+.carousel {
+    background: #fceae8;
+    border-radius: 10px;
+    padding: 20px 0;
+}
+
+.price {
+    color: #ff136f;
+    margin-bottom: 20px;
+}
+
+.buy-now {
+    color: white;
+    background: linear-gradient(to bottom, #ff5297, #ff1a73);
+    padding: 10px 25px;
+    border-radius: 7px;
+    border: 0px;
+}
+
+.watch,
+.bag,
+.shoes {
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.catagoris img {
+    width: 100px;
+}
+
+.watch {
+    background: #ffa500;
+}
+
+.bag {
+    background: #da70d6;
+}
+
+.shoes {
+    background: #0000ff;
+}
+
+.shoes-catagory img {
+    width: 100%;
+}
+
+.shoe-holder {
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+    padding: 20px 20px;
+}
+
+.bags-catagory img {
+    width: 100%;
+}
+
+.bag-holder {
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+    padding: 20px 20px;
+    min-height: 568px;
+}
+
+/* .shoe-holder a {
+    margin-top: 10px; 
+} */
+.submit-form {
+    height: 300px;
+    background: #fceae8;
+    border-radius: 10px;
+}
+
+.submit-form input[type="text"] {
+    height: 38px;
+    border: none;
+}
+
+.submit-form p {
+    color: #8b8089;
+}
+
+footer {
+    text-align: center;
+    font-size: 12px;
+}
